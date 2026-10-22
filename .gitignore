@@ -37,11 +37,12 @@ desktop.ini
 scratch/
 
 # HTML notebook exports
-*.html
+#.html
+AF_Detection_from_PPG.html
 
 # Data Files Note:
 # output5.csv is ~87 MB. GitHub displays a warning for files > 50 MB and rejects files > 100 MB.
 # If you prefer to download datasets separately or track via Git LFS, uncomment the lines below:
-# output5.csv
-# mimic_perform_af_csv/
-# mimic_perform_non_af_csv/
+output5.csv
+mimic_perform_af_csv/
+mimic_perform_non_af_csv/
